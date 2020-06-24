@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeCakeAsync", "MakeCakeAsync\MakeCakeAsync.csproj", "{DE225DA7-0396-4B01-A997-DCA9583191C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MakeCakeAsync", "MakeCakeAsync\MakeCakeAsync.csproj", "{DE225DA7-0396-4B01-A997-DCA9583191C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeCake.WinForms", "MakeCake.WinForms\MakeCake.WinForms.csproj", "{3DB17B2A-88C3-4745-A1ED-1395A0D8276E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DE225DA7-0396-4B01-A997-DCA9583191C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE225DA7-0396-4B01-A997-DCA9583191C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE225DA7-0396-4B01-A997-DCA9583191C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB17B2A-88C3-4745-A1ED-1395A0D8276E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB17B2A-88C3-4745-A1ED-1395A0D8276E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB17B2A-88C3-4745-A1ED-1395A0D8276E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB17B2A-88C3-4745-A1ED-1395A0D8276E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
