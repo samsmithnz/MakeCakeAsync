@@ -1,4 +1,6 @@
 # MakeCakeAsync
+(Taking the simple .NET Core console, and playing with it in WinForms - curious about how far background tasks have come)
+
 A simple .NET Core console app demonstrating asynchronous vs. synchronous code.  Related blog post: https://devblogs.microsoft.com/visualstudio/how-do-i-think-about-async-code/
 
 ## To run only the synchronous code:
